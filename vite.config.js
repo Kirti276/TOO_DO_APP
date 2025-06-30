@@ -8,5 +8,5 @@ export default defineConfig({
   plugins: [react(),
     tailwindcss(),
   ],
-  base: '/TOO_DO_APP/',
+ 
 })
